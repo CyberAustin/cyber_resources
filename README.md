@@ -6,6 +6,10 @@ A collection of links for all things cyber/programming/computers
 
 https://github.com/ripienaar/free-for-dev - Tons of free stuff for developers
 
+## Ready to fly containers
+
+https://fleet.linuxserver.io/
+
 ## JavaScript
 
 http://javascript.info
