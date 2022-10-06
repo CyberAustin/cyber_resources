@@ -10,6 +10,14 @@ https://github.com/ripienaar/free-for-dev - Tons of free stuff for developers
 
 https://fleet.linuxserver.io/
 
+https://bitnami.com/stacks
+
+## General
+
+https://godbolt.org/ - Compiler Explorer: Build code with various compilers and see the resulting assembly
+
+https://replit.com/ - Online IDE and environment
+
 ## JavaScript
 
 http://javascript.info
