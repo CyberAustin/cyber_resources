@@ -8,9 +8,9 @@ https://github.com/ripienaar/free-for-dev - Tons of free stuff for developers
 
 ## Ready to fly containers
 
-https://fleet.linuxserver.io/
+https://fleet.linuxserver.io/ - Lots of ready to run apps
 
-https://bitnami.com/stacks
+https://bitnami.com/stacks - Lots of ready to run application stacks
 
 ## General
 
